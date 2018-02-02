@@ -6,7 +6,7 @@ import './App.css';
 const Page = ({ title }) => (
   <div className="App">
     <div className="App-header">
-      <img src={logo} classname="App-logo" alt="logo" />
+      <img src={logo} className="App-logo" alt="logo" />
       <h2>{title}</h2>
     </div>
     <p className="App-intro">
